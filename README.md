@@ -1,2 +1,1 @@
-# Recovery-OrangeFox-v11.0.9-Unofficially-Mod-for-And-12-
-Modyfikowany Recovery OrangeFox wersji 11.0 tak aby był kompatybilny z wersjami androida od 10 d0 12.
+# Recovery-OrangeFox-v12.0.2-Unofficially_ For Xaomi Redmi 10 2022 (Android 12/MIUI 13
